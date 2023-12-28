@@ -7,5 +7,3 @@
   I like it.      I like︶it.     
   Get out of here.     Get︶out︶of here.     
   It’s up to you.    It’s︶up to you     
- 
-[English](../../english.md) --- [Pronunciation Methods](pronunciation_methods.md) --- [English](../oral_english.md)   
