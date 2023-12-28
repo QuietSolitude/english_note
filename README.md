@@ -1,2 +1,6 @@
 # english_note
-Record notes for learning English
+Record notes for learning English    
+
+發音    
+----------------------------------------
+- [發音技巧](/pronunciation_methods/pronunciation_methods.md)
