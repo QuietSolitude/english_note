@@ -27,7 +27,8 @@
 | ---- | ------- | -------- |
 | ran  | run     | will run |
 
-要記住的4個不規則動詞    
+要記住的4個不規則動詞      
+----------------------------------------------------------------------------------------------------------------------------  
 | verb | simple present tense | third person singular | present tense   | past tense in the first person | plural past     |
 | ---- | -------------------- | --------------------- | --------------- | ------------------------------ | --------------- |
 | be   | am -> I am           | is -> she is          | are -> we are   | was -> I was                   | were -> we were |
@@ -36,7 +37,8 @@
 | say  | say -> I say         | says -> she says      | say -> we say   | said -> I said                 | said -> we said |
 
 
-常见的不规则动词    
+常见的不规则动词     
+-----------------------------------------------------------------------------------------------------------------------------
 | past  | present |
 | ----- | ------- |
 | slept | sleep   |
@@ -46,4 +48,19 @@
 | left  | leave   |
 | leapt | leap    |
 | lost  | lose    |
+
+
+元音字母變化的不規則動詞     
+-----------------------------------------------------------------------------------------------------------------------------
+| present | past simple | past perfect |
+| ------- | ----------- | ------------ |
+| sing    | sang        | sung         |
+| drink   | drank       | drunk        |
+| win     | won         | won          |
+| find    | found       | found        |
+| sit     | sat         | sat          |
+| sneak   | snuck       | snuck        |
+| run     | ran         | run          |
+
+
 
