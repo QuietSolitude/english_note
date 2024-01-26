@@ -7,7 +7,10 @@ They're running.    They aren't walking.
 現在進行時的形式為：    
 ------------------------------------------------------------------------
 am/is/are + doing/eating/running/writing等。     
-| A | B | C |
-|---|---|---|
-| c | c | c |
-  c   c   c
+
+|     |         |      |
+| --- | ------- | ---- |
+| I   | am(not) |      |
+| he  |                |
+| she   is(not) | -ing |
+| it            |      |
