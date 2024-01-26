@@ -11,6 +11,6 @@ am/is/are + doing/eating/running/writing等。
 |     |         |      |
 | --- | ------- | ---- |
 | I   | am(not) |      |
-| he  |                |
-| she   is(not) | -ing |
-| it            |      |
+| he  |         |      |
+| she | is(not) | -ing |
+| it  |         |      |
