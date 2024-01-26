@@ -62,5 +62,34 @@
 | sneak   | snuck       | snuck        |
 | run     | ran         | run          |
 
+-en不規則動詞    
+--------------------------------------------------------------------------------------------------------------------------------
+| present | past simple | past perfect |
+| ------- | ----------- | ------------ |
+| tear    | tore        | torn         |
+| show    | showed      | shown        |
+| prove   | proved      | proven       |
+| bite    | bit         | bitten       |
+| ride    | rode        | ridden       |
+| eat     | ate         | eaten        |
+| speak   | spoke       | spoken       |
+| be      | was/were    | been         |
+| go      | went        | gone         |
 
+真正的不規則動詞     
+------------------------------------------------------------------------------------------------------------------------------------
+| change       | present | past simple |
+| ------------ | ------- | ----------- |
+| -ught        | teach   | taught      |
+|              | catch   | caught      |
+|              | bring   | brought     |
+| -d           | flee    | fled        |
+|              | say     | said        |
+| past=present | bet     | bet         |
+|              | set     | set         |
+|              | hurt    | hurt        |
+| modal/aux    | can     | could       |
+|              | may     | might       |
+|              | shall   | should      |
+|              | will    | would       |
 

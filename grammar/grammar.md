@@ -6,5 +6,6 @@
 4. [how的用法和what的區別](how.md)
 5. [what's noun?](./noun.md)
 6. [verb](./verb.md)
+7. [verb tense](./verb_tense.md)
 
 [return English note](../README.md)
