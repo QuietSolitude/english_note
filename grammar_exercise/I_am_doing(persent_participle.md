@@ -8,9 +8,12 @@ They're running.    They aren't walking.
 ------------------------------------------------------------------------
 am/is/are + doing/eating/running/writing等。     
 
-|     |         |      |
-| --- | ------- | ---- |
-| I   | am(not) |      |
-| he  |         |      |
-| she | is(not) | -ing |
-| it  |         |      |
+|      |          |      |
+| ---- | -------- | ---- |
+| I    | am(not)  |      |
+| he   |          |      |
+| she  | is(not)  | -ing |
+| it   |          |      |
+| we   |          |      |
+| you  | are(not) |      |
+| they |          |      |
