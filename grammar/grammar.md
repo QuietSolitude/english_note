@@ -8,5 +8,6 @@
 6. [verb](./verb.md)
 7. [verb tense](./verb_tense.md)
 8. [modal verb](./modal_verb.md)
+9. [for用法](./for.md)
 
 [return English note](../README.md)
