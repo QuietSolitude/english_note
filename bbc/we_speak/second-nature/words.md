@@ -19,4 +19,4 @@
 | through(preposition, adverb)  | /θruː/            |
 | native(adjective)             | /ˈneɪ.tɪv/        |
 
-[means和method、way区别](./way_method_means.md) 
+[means和method、way区别](.explain-sentences/way_method_means.md) 

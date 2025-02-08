@@ -2,7 +2,7 @@
 2024-09-12 
 
 ### Introduction
-Here's an expression that [means](./way_method_means.md) you can do something [without having to](./without_having_to_sentence.md) think about it, because it's so familiar to you.   
+Here's an expression that [means](./explain-sentences/way_method_means.md) you can do something [without having to](./explain-sentences/without_having_to_sentence.md) think about it, because it's so familiar to you.   
 **hint:**
 - Here's an expression: 這是一個引導句，表示接下來要介紹一個表達。
 - that means: 這是一個關係從句，解釋這個表達的意思。
@@ -26,14 +26,22 @@ And I am Beth. How are you doing. Feifei?
 **Feifei:**   
 I'm very well, thank you. The phrase we're looking at in this programme is 'second nature'. I heard someone use it at work recently talking with a new colleague. He said although recording programmes like this looks complicated, it quickly becomes second nature.
 
+- **He said** - 主语（he）和谓语（said），表示某人说了什么。这部分引出以下的内容。
+- **although** - 连接词，表示“虽然”。引出一个让步状语从句。
+- **recording programmes like this** - “recording programmes”是动名词短语，意思是“录制节目”；“like this”修饰“recording programmes”，表示“像这样的”。这里整体表示“像这样的录制节目”。
+- **looks complicated** - 谓语（looks）和表语（complicated），表示看起来复杂。
+
+合起来，这句话的意思是：“他说，虽然像这样的录制节目看起来很复杂。”
+
+
 **Beth:**    
 Yes. 'Second nature'. That is a great expression. So, when something is second nature, it is so familiar to you that you can do it really easily without having to think about it.
 
 **Feifei:**    
-[I have a good example for this. I had to learn how to use a computer and a mobile phone becasue when I was a child they didin't exist. However, for my son, using technology like this will be second nature - he's grown up with it.](I_have_a_good_example.md)    
+[I have a good example for this. I had to learn how to use a computer and a mobile phone becasue when I was a child they didin't exist. However, for my son, using technology like this will be second nature - he's grown up with it.](./explain-sentences/I_have_a_good_example.md)    
 
 **Beth:**  
-And now, for you, using technology is second nature as well. For your son, he [hasn't](./hasn't_and_without.md) known life without a computer and mobile phone, so it's really easy and obvious for him. Now normally, when we use this phrase 'second nature', we start [with](./with.md) the thing that is second nature.
+And now, for you, using technology is second nature as well. For your son, he [hasn't](./explain-sentences/hasn't_and_without.md) known life without a computer and mobile phone, so it's really easy and obvious for him. Now normally, when we use this phrase 'second nature', we start [with](./explain-sentences/with.md) the thing that is second nature.
 
 - “as well”：表示“也”，用于加强语气，说明不仅其他人如此，你也一样。
 
@@ -41,7 +49,7 @@ And now, for you, using technology is second nature as well. For your son, he [h
 Yes, that's right. For example, using technology is second nature for my son. Beth, what is second nature to you?
 
 **Beth:**  
-I would say driving a car. So, I learnt how to drive when I was seventeen, and I'm much older than seventeen now, so [I've been](./I've_been.md) driving a car for many years. I don't really need to think about it, and I just do it. It's second nature.
+I would say driving a car. So, I learnt how to drive when I was seventeen, and I'm much older than seventeen now, so [I've been](./explain-sentences/I've_been.md) driving a car for many years. I don't really need to think about it, and I just do it. It's second nature.
 
 **Feifei:**  
 That does make you a very experienced driver.
