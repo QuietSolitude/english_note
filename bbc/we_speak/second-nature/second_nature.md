@@ -24,7 +24,7 @@ Hello and welcome to The English We Speak, where we explain phrases used by flue
 And I am Beth. How are you doing. Feifei?      
 
 **Feifei:**   
-I'm very well, thank you. The phrase we're looking at in this programme is 'second nature'. I heard someone use it at work recently talking with a new colleague. He said although recording programmes like this looks complicated, it quickly becomes second nature.
+I'm very well, thank you. [The phrase we're looking at in this programme is 'second nature'.](./explain-sentences/The-phrase-we're-looking.md) I heard someone use it at work recently talking with a new colleague. He said although recording programmes like this looks complicated, it quickly becomes second nature.
 
 - **He said** - 主语（he）和谓语（said），表示某人说了什么。这部分引出以下的内容。
 - **although** - 连接词，表示“虽然”。引出一个让步状语从句。
