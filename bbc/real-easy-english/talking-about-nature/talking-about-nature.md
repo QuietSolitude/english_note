@@ -21,10 +21,26 @@ a long, sometimes [difficult](./words/difficult.md), walk in the countryside
 
 **wild swimming**
 
-swimming in nature, [for](./words/for.md) example in a river or lake
+swimming [in](./words/in.md) nature, [for](./words/for.md) example in a river or lake
 
 **Transcript**
 
 **Beth**
 
-Hello and welcome to Real Easy English, the podcast
+[Hello and welcome to Real Easy English, the podcast where we have real conversations in easy English to help you learn. I'm Beth.](./sentences/Hello-and-welcom.md)
+
+**Georgie**
+
+[And I'm Georgie. You can read along with this podcast and find a worksheet to help you learn on our website, bbclearningenglish.com.](./sentences/and-i'm-georgie.md)
+
+**Beth**
+
+Hi Georgie, [how are things?](./sentences/how-are-thing.md)
+
+**Georgie**
+
+Things are good, thank you, Beth. How are you?
+
+**Beth**
+
+[I'm very good, thank you. I've been enjoying the fresh air outside on my lunch break.](./sentences/I'm-very-good.md)
