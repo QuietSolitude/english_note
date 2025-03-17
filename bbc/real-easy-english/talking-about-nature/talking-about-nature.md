@@ -44,3 +44,21 @@ Things are good, thank you, Beth. How are you?
 **Beth**
 
 [I'm very good, thank you. I've been enjoying the fresh air outside on my lunch break.](./sentences/I'm-very-good.md)
+
+**George**
+
+Me too.
+
+**Beth**
+
+And today we're talking about nature. We'll talk about the natural world and what we like about it.
+
+**Georgie**
+
+Sounds good. Let's get started.
+
+So, Beth, [you said you went for a walk in your lunch break.](./sentences/you-said-you.md) But we're in the centre of the city here. [Do](./words/do.md) you like walking in the city or do you prefer to find nature?
+
+**Beth**
+
+[Well, I have to walk in the city when I'm here, but ideally, definitely, I would rather be in the countryside with the fresh air, some sheep, some cows, some mountains.](./sentences/well-i-have.md)
