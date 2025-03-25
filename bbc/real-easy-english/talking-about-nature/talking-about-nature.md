@@ -62,3 +62,11 @@ So, Beth, [you said you went for a walk in your lunch break.](./sentences/you-sa
 **Beth**
 
 [Well, I have to walk in the city when I'm here, but ideally, definitely, I would rather be in the countryside with the fresh air, some sheep, some cows, some mountains.](./sentences/well-i-have.md)
+
+**Georgie**
+
+Me too. [I'm from the countryside and where I'm from, I live in the middle of a national park.](./sentences/i'm-from-the.md) [There are lots of hills, lots of trees.](./sentences/there-are-lots.md) [There's a park near my house with two lakes as well.](./sentences/there's-a-park.md) And lots of deer as well. [What about where you're from?](./sentences/what-about-where.md)
+
+**Beth**
+
+Well, [I am from Cumbria. And Cumbria also has another big national park, the Lake District.](./sentences/i-am-from.md) [So, yeah, I grew up surrounded by a lot of mountains and a lot of lakes.](./sentences/so-yeah-i.md) [And we really lived in the middle of nowhere.](./sentences/and-we-really.md) [So, yeah, lots of lots of wildlife around and rivers, lakes, streams.](./sentences/so-yeah-lots.md) [整句翻譯](./sentences/well-i-am-from.md)
