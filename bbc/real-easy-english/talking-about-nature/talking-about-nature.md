@@ -57,7 +57,7 @@ And today we're talking about nature. We'll talk about the natural world and wha
 
 Sounds good. Let's get started.
 
-So, Beth, [you said you went for a walk in your lunch break.](./sentences/you-said-you.md) But we're in the centre of the city here. [Do](./words/do.md) you like walking in the city or do you prefer to find nature?
+So, Beth, [you said you went for a walk in your lunch break.](./sentences/you-said-you.md) But we're in the centre of the city here. [Do](./words/do.md) you like walking in the city or do you [prefer](./words/prefer-and-would-rather.md) to find nature?
 
 **Beth**
 
